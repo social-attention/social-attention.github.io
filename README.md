@@ -18,6 +18,11 @@ We study the design of learning architectures for behavioural planning in a dens
 <p align="center"><video src="4_priority1.mp4" width="600" height="600" controls preload></video></p>
 <p align="center"><video src="4_priority2.mp4" width="600" height="600" controls preload></video></p>
 
+### Supplementary videos
+
+<p align="center"><video src="right.mp4" width="600" height="600" controls preload></video></p>
+<p align="center"><video src="straight.mp4" width="600" height="600" controls preload></video></p>
+
 
 ## Reproduce the experiments
 ```Anonymized```
